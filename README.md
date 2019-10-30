@@ -66,4 +66,4 @@ This project was created as part of a _Studienarbeit_  (German equivalent of a B
 
 ## License
 This software is licensed under the [MIT License](https://mit-license.org/).
-The PDF with the (German) paper `rpml.pdf` "Entwicklung eines maschinellen Lernverfahrens basierend auf neuronalen Netzen zur Vorhersage der Verdrahtbarkeit platzierter Schaltungslayouts" is licensed under the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+The PDF with the (German) paper `MLinEDA.pdf` "Entwicklung eines maschinellen Lernverfahrens basierend auf neuronalen Netzen zur Vorhersage der Verdrahtbarkeit platzierter Schaltungslayouts" is licensed under the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
