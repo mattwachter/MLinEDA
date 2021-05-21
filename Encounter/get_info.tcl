@@ -4,7 +4,7 @@
 # should be run after placement and separately after routing
 
 
-# Cohoose which design stages should be analyzed
+# Choose which design stages should be analyzed
 set analyze_placed 1
 set analyze_routed 1
 # Choose size of square tile in um, 1000 dbu = 1um
